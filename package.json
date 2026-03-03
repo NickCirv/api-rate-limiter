@@ -1,0 +1,33 @@
+{
+  "name": "api-rate-limiter",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Local HTTP proxy that adds rate limiting to any endpoint — test 429 handling without modifying your server",
+  "bin": {
+    "api-rate-limiter": "./index.js",
+    "rl": "./index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "developer-tools",
+    "cli",
+    "nodejs",
+    "zero-dependencies",
+    "rate-limiting",
+    "testing",
+    "proxy",
+    "chaos"
+  ],
+  "license": "MIT",
+  "author": "NickCirv",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NickCirv/api-rate-limiter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NickCirv/api-rate-limiter/issues"
+  },
+  "homepage": "https://github.com/NickCirv/api-rate-limiter#readme"
+}
