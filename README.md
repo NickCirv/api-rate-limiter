@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # api-rate-limiter
 
 > Local HTTP proxy that adds rate limiting to any endpoint — test 429 handling without modifying your server.
